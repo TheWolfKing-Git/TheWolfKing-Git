@@ -11,7 +11,7 @@
 
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=TheWolfKing-Git&show_icons=true)
-![Random Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Random Stats](https://github-readme-stats.vercel.app/api?username=TheWolfKing-Git&show_icons=true&theme=radical)
 
 ### ✈ Current Projects
 - [Project 1](https://github.com/MVesterled/KasteRobot.git)
