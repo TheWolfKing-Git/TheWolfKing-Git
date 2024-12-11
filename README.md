@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Mikkel 😎
 
-<!--
-**TheWolfKing-Git/TheWolfKing-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me 
+ Currently studying BEng in Robotics at SDU Denmark
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- Programming Languages: Python, Java, C++, Structured text
+- Tools: Git, Docker, Qt Creator, MySQL
+- Robots: KUKA, ABB, UR
+- PLCs: Siemens, Allen-Bradly, B&R
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+### ✈ Current Projects
+- Project 1: [(https://github.com/MVesterled/KasteRobot.git)]
+
+### 📫 How to reach me
+- Email: mmwar100@gmail.com
+- LinkedIn: [[LinkedIn URL](https://www.linkedin.com/in/mlnc/)]
+
